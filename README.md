@@ -2,21 +2,21 @@
 
 Welcome to the Netflix homepage clone project! This project is a recreation of the Netflix landing page using HTML and CSS. 
 
-## Preview
+## 📺 Preview
 
-![Netflix Clone](/images/netflix-clone-preview.png)
+![Netflix Clone](/assets/images/logo.svg)
 
-## Features
+## ✨ Features
 
 - Responsive design for various screen sizes
 - Utilizes Flexbox and CSS Grid for layout
 - Mimics the appearance of Netflix's homepage
 
-## How to Use
+## 🚀 How to Use
 
 To view the Netflix clone, simply open the `index.html` file in your web browser.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request with your changes.
 
